@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 永恒之鸽
-- Infinite of Pigeon
+- Pigeon of Infinite
