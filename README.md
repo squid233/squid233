@@ -3,8 +3,8 @@
 - 永恒之鸽
 - Pigeon of Infinite
 
-[![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=squid233&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squid233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=squid233&count_private=true&show_icons=true&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squid233&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **squid233/squid233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
