@@ -1,8 +1,9 @@
 # Hi there 👋
 
-I'm the leader of [Overrun Organization](https://github.com/Over-Run).
+I'm the leader of [Overrun Organization](https://github.com/Over-Run) and a member of [XenFork Union](https://github.com/XenFork).
 
-- :eyes: Working on [overrungl](https://github.com/Over-Run/overrungl).
+- :eyes: Working on [OverrunGL](https://github.com/Over-Run/overrungl).
+- 💪 Welcome to contribute [this game](https://github.com/XenFork/school-life)!
 
 ---
 
