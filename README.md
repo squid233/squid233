@@ -2,6 +2,8 @@
 
 ## Personal Information
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=squid233.squid233)
+
 I'm the leader of [Overrun Organization](https://github.com/Over-Run) and a member of [XenFork Union](https://github.com/XenFork).
 
 - :eyes: I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl).
@@ -15,7 +17,7 @@ I'm the leader of [Overrun Organization](https://github.com/Over-Run) and a memb
 If you're interested in ktgl, follow this repository please☕...  
 ...but there will be a new game engine!
 
-[![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=squid233&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
+[![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=squid233&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squid233&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
