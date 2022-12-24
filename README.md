@@ -3,6 +3,7 @@
 ## Personal Information
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=squid233.squid233)
+[![Page Views Count](https://badges.toozhao.com/badges/01GN1CZYTMRBEZR0T1KBJFBHHT/blue.svg)](https://badges.toozhao.com/stats/01GN1CZYTMRBEZR0T1KBJFBHHT "Get your own page views count badge on badges.toozhao.com")
 
 I'm the leader of [Overrun Organization](https://github.com/Over-Run) and a member of [XenFork Union](https://github.com/XenFork).
 
