@@ -11,7 +11,6 @@ I'm the leader of [Overrun Organization](https://github.com/Over-Run) and a memb
 - 👀 We are developing two new games: [CuboidX](https://github.com/XenFork/cuboidx) and [Recx](https://github.com/XenFork/Recx)
 - 📫 How to reach me: [my forum](https://github.com/squid233/squid233/discussions)
 - 📧 If you want to co-author with me, please use this GitHub provided no-reply email: 60126026+squid233@users.noreply.github.com.
-<!--- 👋 We are developing a [new game engine](https://github.com/Over-Run/Fe2D).-->
 <!--- 💪 Welcome to contribute [this game](https://github.com/XenFork/school-life)!-->
 
 ---
@@ -21,6 +20,7 @@ If you are intrested in writing games, please star⭐ this repository.
 
 [![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=squid233&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squid233&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stat Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **squid233/squid233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
