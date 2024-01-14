@@ -6,10 +6,10 @@
 
 I'm the leader of [Overrun Organization](https://github.com/Over-Run) and a member of [XenFork Union](https://github.com/XenFork).
 
-- 🔭 I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl).
-- 👀 We are developing two new games: [CuboidX](https://github.com/XenFork/cuboidx) and [Recx](https://github.com/XenFork/Recx)
+- 🔭 I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl) and [Marshal](https://github.com/Over-Run/marshal).
+<!--- 👀 We are developing two new games: [CuboidX](https://github.com/XenFork/cuboidx) and [Recx](https://github.com/XenFork/Recx)-->
 - 📫 How to reach me: [discussions](https://github.com/squid233/squid233/discussions)
-- 📧 If you want to co-author with me, please use this GitHub provided no-reply email: 60126026+squid233@users.noreply.github.com.
+- 📧 If you need to co-author with me, please use this GitHub provided no-reply email: 60126026+squid233@users.noreply.github.com.
 <!--- 💪 Welcome to contribute [this game](https://github.com/XenFork/school-life)!-->
 
 ---
@@ -17,8 +17,9 @@ I'm the leader of [Overrun Organization](https://github.com/Over-Run) and a memb
 [OverrunGL](https://github.com/Over-Run/overrungl) is an awesome library that binds C libraries🛠️!  
 If you are intrested in writing games or other applications, please star⭐ this repository.
 
+---
+
 [![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=squid233&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squid233&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stat Trophies](https://github-profile-trophy.vercel.app/?username=squid233&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
