@@ -19,7 +19,7 @@ If you are intrested in writing games or other applications, please star⭐ this
 
 ---
 
-[![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=squid233&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=squid233&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stat Trophies](https://github-profile-trophy.vercel.app/?username=squid233&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
