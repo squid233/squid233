@@ -8,14 +8,15 @@ I'm the leader of [Overrun Organization](https://github.com/Over-Run) and a memb
 
 - 🔭 I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl) and [Marshal](https://github.com/Over-Run/marshal).
 <!--- 👀 We are developing two new games: [CuboidX](https://github.com/XenFork/cuboidx) and [Recx](https://github.com/XenFork/Recx)-->
+- 📓 Have a look at [my blog](https://squid233.github.io/)
 - 📫 How to reach me: [discussions](https://github.com/squid233/squid233/discussions)
 - 📧 If you need to co-author with me, please use this GitHub provided no-reply email: 60126026+squid233@users.noreply.github.com.
 <!--- 💪 Welcome to contribute [this game](https://github.com/XenFork/school-life)!-->
 
 ---
 
-[OverrunGL](https://github.com/Over-Run/overrungl) is an awesome library that binds C libraries🛠️!  
-If you are intrested in writing games or other applications, please star⭐ this repository.
+[OverrunGL](https://github.com/Over-Run/overrungl) is an awesome library that allows accessing C libraries🛠️!  
+If you are intrested in writing games or other applications, please check it.
 
 ---
 
