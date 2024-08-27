@@ -11,6 +11,15 @@ I'm the leader of [Overrun Organization](https://github.com/Over-Run) and [XenFo
 <!--- 📫 How to reach me: [discussions](https://github.com/squid233/squid233/discussions)-->
 - 👀 We are developing a new game: [freeworld](https://github.com/XenFork/freeworld)
 
+## Plan
+
+1. Refactor Marshal Over-Run/Marshal#16
+2. Update native libraries of OverrunGL
+3. Update OverrunGL to JDK 23
+4. Add FreeType to OverrunGL
+5. Create a GUI system for freeworld
+6. Update freeworld
+
 ---
 
 [OverrunGL](https://github.com/Over-Run/overrungl) is an awesome library that allows accessing C libraries🛠️!  
