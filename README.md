@@ -6,24 +6,22 @@
 
 I'm the leader of [Overrun Organization](https://github.com/Over-Run) and [XenFork Union](https://github.com/XenFork).
 
-- 🔭 I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl) and [Marshal](https://github.com/Over-Run/marshal).
+- 🔭 I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl).
 - 📓 Have a look at [my blog](https://squid233.github.io/)
 <!--- 📫 How to reach me: [discussions](https://github.com/squid233/squid233/discussions)-->
 - 👀 We are developing a new game: [freeworld](https://github.com/XenFork/freeworld)
 
 ## Plan
 
-1. Refactor Marshal Over-Run/Marshal#16
-2. Update native libraries of OverrunGL
-3. Update OverrunGL to JDK 23
-4. Add FreeType to OverrunGL
-5. Create a GUI system for freeworld
-6. Update freeworld
+1. Update OverrunGL to JDK 24
+2. Add FreeType to OverrunGL
+3. Create a GUI system for freeworld
+4. Update freeworld
 
 ---
 
 [OverrunGL](https://github.com/Over-Run/overrungl) is an awesome library that allows accessing C libraries🛠️!  
-If you are interested in writing games or other applications, please check it.
+If you are interested in writing games or other applications, you are recommended to check it.
 
 ---
 
