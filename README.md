@@ -9,14 +9,12 @@ I'm the leader of [Overrun Organization](https://github.com/Over-Run) and [XenFo
 - 🔭 I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl).
 - 📓 Have a look at [my blog](https://squid233.github.io/)
 <!--- 📫 How to reach me: [discussions](https://github.com/squid233/squid233/discussions)-->
-- 👀 We are developing a new game: [freeworld](https://github.com/XenFork/freeworld)
+- 👀 I'm (privately) developing a new game
 
 ## Plan
 
-1. Update OverrunGL to JDK 24
-2. Add FreeType to OverrunGL
-3. Create a GUI system for freeworld
-4. Update freeworld
+1. Add FreeType to OverrunGL
+2. Update my own game (private)
 
 ---
 
