@@ -4,7 +4,7 @@
 
 - I'm the leader of [Overrun Organization](https://github.com/Over-Run) and [XenFork Union](https://github.com/XenFork).
 - ☕ I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl).
-- 📓 Have a look at [my blog](https://squid233.github.io/)
+- 📓 Have a look at [my blog](https://squid233-blog.netlify.app)
 <!--- 📫 How to reach me: [discussions](https://github.com/squid233/squid233/discussions)-->
 - 🎮 I'm (privately) developing a new game
 
@@ -27,10 +27,10 @@ If you are interested in writing games or other applications, you might find it 
 -->
 ---
 
-<details>
+<!--details>
   <summary>If you need to co-author with me, please use this GitHub provided no-reply email</summary>
   <code>60126026+squid233@users.noreply.github.com</code>
-</details>
+</details-->
 
 <!--
 **squid233/squid233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
