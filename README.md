@@ -4,7 +4,7 @@
 
 - I'm the leader of [Overrun Organization](https://github.com/Over-Run) and [XenFork Union](https://github.com/XenFork).
 - ☕ I’m currently working on [OverrunGL](https://github.com/Over-Run/overrungl).
-- 📓 Have a look at [my blog](https://squid233-blog.netlify.app)
+- 📓 Have a look at [my blog](https://squid233.github.io)
 <!--- 📫 How to reach me: [discussions](https://github.com/squid233/squid233/discussions)-->
 - 🎮 I'm (privately) developing a new game
 
